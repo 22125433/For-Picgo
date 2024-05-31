@@ -1,1 +1,1 @@
-# For-Picgo
+# Picgo
